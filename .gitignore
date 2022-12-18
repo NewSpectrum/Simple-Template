@@ -37,8 +37,6 @@
 #|    - Base Name: 'temp'
 **/*.temp/*
 **/*temp/*
-**/.temp*/*
-**/temp*/*
 **/temp/*
 #|	  - Base Name: 'tmp'
 **/*.tmp*/*
