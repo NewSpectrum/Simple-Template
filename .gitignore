@@ -18,8 +18,8 @@
 !**/*.Wiki.*
 !**/Wiki.*
 !**/Wiki.md
-!**/*.wiki
-!**/*.mediawiki
+!*.wiki
+!*.mediawiki
 #|    - Base Name: 'Documentation'
 !**/*Documentation*/*
 !**/*Documentation/*
