@@ -1,0 +1,41 @@
+#|=============================|#
+#|  Temporary Files & Folders  |#
+#|=============================|#
+#|
+#|  Ignore Temporary Folders
+#|    - Base Name: 'temp'
+**/*.temp*/*
+**/*.temp/*
+**/*temp*/*
+**/*temp/*
+**/.temp*/*
+**/.temp/*
+**/temp*/*
+**/temp/*
+#|	  - Base Name: 'tmp'
+**/*.tmp*/*
+**/*.tmp/*
+**/*tmp*/*
+**/*tmp/*
+**/.tmp*/*
+**/.tmp/*
+**/tmp*/*
+**/tmp/*
+#|
+#|  Ignore Temporary Files
+#|    - Base Name: 'temp'
+*.temp.*
+*.temp*
+*.temp
+*.temp*
+*temp.*
+.temp.*
+temp.*
+#|    - Base Name: 'tmp'
+*.tmp.*
+*.tmp*
+*.tmp
+*.tmp*
+*tmp.*
+.tmp.*
+tmp.*
