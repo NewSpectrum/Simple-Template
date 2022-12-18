@@ -27,6 +27,9 @@
 !**/Documentation/*
 #|    - Base Name: 'template-files'
 !/.template-files/**
+#|    - Base Name: 'placeholder'
+!**/.placeholder
+!**/placeholder
 
 
 #|=============================|#
