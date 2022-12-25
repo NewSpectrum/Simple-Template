@@ -26,10 +26,10 @@
 !**/Documentation*/*
 !**/Documentation/*
 #|    - Base Name: 'template-files'
-!/.template-files/**
+!/.simple-template/*
 #|    - Base Name: 'placeholder'
-!**/.placeholder
-!**/placeholder
+!.placeholder
+!placeholder
 
 
 #|=============================|#
