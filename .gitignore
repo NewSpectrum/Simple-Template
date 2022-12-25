@@ -118,3 +118,4 @@ misc.*
 *old.*
 .old.*
 old.*
+/.old/**
