@@ -11,13 +11,15 @@
 
 ---
 
+
+
 # Overview
 
 <table>
 <thead>
 	<tr>
-		<td>
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_white.svg" alt="Item Type" width="auto" height="18px"/>
+		<td style="text-align: center;vertical-align: middle">
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_white.svg" alt="Item Type" width="auto" height="18px"/> <img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_white.svg" alt="Item Type" width="auto" height="18px"/>
 		</td>
 		<th>Item Name</th>
 		<th>Location</th>
@@ -26,7 +28,9 @@
 </thead>
 <tbody>
 	<tr>
-		<th>Directory</th>
+		<td style="text-align: center">
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_white.svg" alt="Item Type" width="auto" height="18px"/>
+		</td>
 		<td>Name</td>
 	</tr>
 </tbody>
