@@ -17,7 +17,7 @@
 <thead>
 	<tr>
 		<td>
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_white.svg" alt="Item Type" width="auto" height="24px"/>
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_white.svg" alt="Item Type" width="auto" height="18px"/>
 		</td>
 		<th>Item Name</th>
 		<th>Location</th>
