@@ -18,8 +18,9 @@
 <table>
 <thead>
 	<tr>
-		<th>
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="14px"/> <img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Item Type" width="auto" height="14px"/> &#160;&#160;Name
+		<th style="text-align: center">
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="32px"/> <img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Item Type" width="auto" height="32px"/><br />
+			Name
 		</th>
 		<th>Location</th>
 		<th>Purpose</th>
@@ -27,8 +28,8 @@
 </thead>
 <tbody>
 	<tr>
-		<td>
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="14px"/>  &#160;&#160;
+		<td style="text-align: center">
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="32px"/><br /><br />
 			<code>.vscode</code>
 		</td>
 		<td>
@@ -39,8 +40,8 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="14px"/> 
+		<td style="text-align: center">
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="32px"/><br /><br />
 			<code>extensions.json</code>
 		</td>
 		<td>
