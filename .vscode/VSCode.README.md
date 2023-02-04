@@ -4,7 +4,7 @@
 
 | Name & Type | Location | Purpose |
 | :---        | :---     | :---    |
-| <img src="URI" alt="Directory" width="auto" height="16px"/> `.vscode` | `/.vscode` | Contains 'Workspace-Specific' Config `*.json` Files for [Visual Studio Code](url) |
+| <img src="URI" alt="Directory" width="auto" height="14px"/> `.vscode` | `/.vscode` | Contains 'Workspace-Specific' Config `*.json` Files for [Visual Studio Code](url) |
 
 
 <br ><br /><br />
@@ -18,20 +18,17 @@
 <table>
 <thead>
 	<tr>
-		<td style="text-align: center;vertical-align: middle">
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="30px"/> <img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Item Type" width="auto" height="30px"/>
-		</td>
-		<th>Name</th>
+		<th>
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="14px"/> <img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Item Type" width="auto" height="14px"/> &#160;&#160;Name
+		</th>
 		<th>Location</th>
 		<th>Purpose</th>
 	</tr>
 </thead>
 <tbody>
 	<tr>
-		<td style="text-align: center">
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="30px"/>
-		</td>
 		<td>
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="14px"/>  &#160;&#160;
 			<code>.vscode</code>
 		</td>
 		<td>
@@ -42,10 +39,8 @@
 		</td>
 	</tr>
 	<tr>
-		<td style="text-align: center">
-			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/file-icon-01_gh.svg" alt="Item Type" width="auto" height="30px"/>
-		</td>
 		<td>
+			<img src="https://raw.githubusercontent.com/NewSpectrum/Free-Assets-and-Resources/main/icons/NS-Library/user-interface/folder-icon-01_gh.svg" alt="Directory" width="auto" height="14px"/> 
 			<code>extensions.json</code>
 		</td>
 		<td>
