@@ -4,60 +4,50 @@
 #|
 #|  Always Keep Documentation Files
 #|    - Base Name: 'README'
-!**/*README*/*
-!**/*README/*
-!**/*-README.*
-!**/*.README.*
-!**/README.mdx
-!**/README.md
-!**/README.*
+!README*/
+!*-README.*
+!*.README.*
+!README.*
 #|    - Base Name: 'Wiki'
-!**/*Wiki*/*
-!**/*Wiki/*
-!**/*-Wiki.*
-!**/*.Wiki.*
-!**/Wiki.*
-!**/Wiki.md
-!*.wiki
-!*.mediawiki
+!*Wiki*/
+!*Wiki/
+!*-Wiki.*
+!*.Wiki.*
+!Wiki.*
 #|    - Base Name: 'Documentation'
-!**/*Documentation*/*
-!**/*Documentation/*
-!**/Documentation*/*
-!**/Documentation/*
+!*Documentation*/
+!*Documentation/
+!Documentation*/
+!Documentation/
 #|    - Base Name: 'template-files'
-!/.simple-template/*
+!/.simple-template/
 #|    - Base Name: 'placeholder'
 !.placeholder
 !placeholder
 
 
+#|======================|#
+#|  Patterns to Ignore  |#
+#|======================|#
+#|
+#|
+#|
 #|=============================|#
 #|  Temporary Files & Folders  |#
 #|=============================|#
 #|
 #|  Ignore Temporary Folders
-#|    - Base Name: 'temp'
-**/*.temp/*
-**/*temp/*
-**/temp/*
 #|	  - Base Name: 'tmp'
-**/*.tmp*/*
-**/*.tmp/*
-**/*tmp*/*
-**/*tmp/*
-**/.tmp*/*
-**/.tmp/*
-**/tmp*/*
-**/tmp/*
+*.tmp*/
+*.tmp/
+*tmp*/
+*tmp/
+.tmp*/
+.tmp/
+tmp*/
+tmp/
 #|
 #|  Ignore Temporary Files
-#|    - Base Name: 'temp'
-*.temp.*
-*.temp
-*temp.*
-.temp.*
-temp.*
 #|    - Base Name: 'tmp'
 *.tmp.*
 *.tmp*
@@ -74,17 +64,17 @@ tmp.*
 #|
 #|  Ignore Misc Folders
 #|    - Base Name: 'misc'
-**/*.misc*/*
-**/*.misc/*
-**/*misc*/*
-**/*misc/*
-**/.misc*/*
-**/.misc/*
-**/misc*/*
-**/misc/*
+*.misc*/
+*.misc/
+*misc*/
+*misc/
+.misc*/
+.misc/
+misc*/
+misc/
 #|
-#|  Ignore Temporary Files
-#|    - Base Name: 'temp'
+#|  Ignore Misc Files
+#|    - Base Name: 'misc'
 *.misc.*
 *.misc*
 *.misc
@@ -100,14 +90,14 @@ misc.*
 #|
 #|  Ignore Old Folders
 #|	  - Base Name: 'old'
-**/*.old*/*
-**/*.old/*
-**/*old*/*
-**/*old/*
-**/.old*/*
-**/.old/*
-**/old*/*
-**/old/*
+*.old*/
+*.old/
+*old*/
+*old/
+.old*/
+.old/
+old*/
+old/
 #|
 #|  Ignore Temporary Files
 #|    - Base Name: 'temp'
@@ -118,4 +108,3 @@ misc.*
 *old.*
 .old.*
 old.*
-/.old/**
