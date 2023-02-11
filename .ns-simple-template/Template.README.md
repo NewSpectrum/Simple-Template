@@ -8,9 +8,9 @@
 
 # Template Resources
 
-Each Template has a __['Hidden' Directory']__ named `.template-files` located in the __[Root Directory]__. This folder contains all sorts of goodies for you to take advantage of, including (but not necessarily limited to):
+Each Template has a __['Hidden' Directory']__ named `.ns-[name]-template` located in the __[Root Directory]__. This folder contains all sorts of goodies for you to take advantage of, including (but not necessarily limited to):
 
-## Inside `.template-files`
+## Inside `.ns-simple-template`
 
 ### Git Resources
 - Additional __[Git Ignore]__ Configs

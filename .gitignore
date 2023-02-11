@@ -3,25 +3,29 @@
 #|==============================|#
 #|
 #|  Always Keep Documentation Files
-#|    - Base Name: 'README'
+#|  - Base Name: 'README'
 !README*/
 !*-README.*
 !*.README.*
 !README.*
-#|    - Base Name: 'Wiki'
+#|
+#|  - Base Name: 'Wiki'
 !*Wiki*/
 !*Wiki/
 !*-Wiki.*
 !*.Wiki.*
 !Wiki.*
-#|    - Base Name: 'Documentation'
+#|
+#|  - Base Name: 'Documentation'
 !*Documentation*/
 !*Documentation/
 !Documentation*/
 !Documentation/
-#|    - Base Name: 'template-files'
-!/.simple-template/
-#|    - Base Name: 'placeholder'
+#|
+#|  - Base Name: 'ns-[name]-template'
+!/.ns-simple-template/
+#|
+#|  - Base Name: 'placeholder'
 !.placeholder
 !placeholder
 
@@ -36,75 +40,118 @@
 #|  Temporary Files & Folders  |#
 #|=============================|#
 #|
+#|
 #|  Ignore Temporary Folders
-#|	  - Base Name: 'tmp'
-*.tmp*/
+#|  - Base Name: 'tmp'
 *.tmp/
-*tmp*/
-*tmp/
-.tmp*/
+*-tmp/
+*_tmp/
+.tmp.*/
+.tmp-*/
+.tmp_*/
 .tmp/
-tmp*/
+tmp.*/
+tmp-*/
+tmp_*/
 tmp/
 #|
+#|
 #|  Ignore Temporary Files
-#|    - Base Name: 'tmp'
+#|  - Base Name: 'tmp'
 *.tmp.*
-*.tmp*
-*.tmp
-*.tmp*
-*tmp.*
+*-tmp.*
+*_tmp.*
+*.tmp.*.*
+*.tmp-*.*
+*.tmp_*.*
 .tmp.*
 tmp.*
+*.tmp
 
 
 #|========================|#
 #|  Misc Files & Folders  |#
 #|========================|#
 #|
+#|
 #|  Ignore Misc Folders
-#|    - Base Name: 'misc'
-*.misc*/
+#|  - Base Name: 'misc'
 *.misc/
-*misc*/
-*misc/
-.misc*/
+*-misc/
+*_misc/
+.misc.*/
+.misc-*/
+.misc_*/
 .misc/
-misc*/
+misc.*/
+misc-*/
+misc_*/
 misc/
 #|
+#|
 #|  Ignore Misc Files
-#|    - Base Name: 'misc'
+#|  - Base Name: 'misc'
 *.misc.*
-*.misc*
-*.misc
-*.misc*
-*misc.*
+*-misc.*
+*_misc.*
+*.misc.*.*
+*.misc-*.*
+*.misc_*.*
 .misc.*
 misc.*
+*.misc
 
 
 #|=======================|#
 #|  Old Files & Folders  |#
 #|=======================|#
 #|
+#|
 #|  Ignore Old Folders
-#|	  - Base Name: 'old'
-*.old*/
+#|  - Base Name: 'old'
 *.old/
-*old*/
-*old/
-.old*/
+*-old/
+*_old/
+.old.*/
+.old-*/
+.old_*/
 .old/
-old*/
+old.*/
+old-*/
+old_*/
 old/
 #|
+#|
 #|  Ignore Temporary Files
-#|    - Base Name: 'temp'
+#|  - Base Name: 'old'
 *.old.*
-*.old*
-*.old
-*.old*
-*old.*
+*-old.*
+*_old.*
+*.old.*.*
+*.old-*.*
+*.old_*.*
 .old.*
 old.*
+*.old
+
+
+#|====================|#
+#|  Ignore Templates  |#
+#|====================|#
+#|
+#|
+#|
+#|=====================|#
+#|  { Template Name }  |#
+#|=====================|#
+#|
+#|  Template Defaults
+#|  -Paste template 'as-is' after this line
+#|  -Save 'pretty' template(s) using the
+#|		Titles/Subtitles & Descriptions in
+#|		this file as needed.
+
+#|
+#|
+#|  Per-Project Template Edits
+#|  -Modify the template as needed below
