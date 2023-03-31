@@ -12,3 +12,14 @@ A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.c
 
 # Template Details
 
+```
+Simple-Template
+  |--/.github
+  |  |-------/templates
+  |         |---------/...
+  |  |-------/workflows
+  |         |---------/...
+  |--/.template
+  |  |---------/licenses
+
+```
