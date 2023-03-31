@@ -931,7 +931,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 ## License Definitions
 
-<details open>
+<details>
 <summary>
 	<h3 style="display: inline">
 		Permissions
@@ -960,13 +960,13 @@ The licensed material may be modified.
 🟢 Patent Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-This license provides an express grant of *[Patent Rights](https://google.github.io/opencasebook/patents/)* from contributors.
+This license provides an express grant of <a title="Patents in Open Source" href="https://google.github.io/opencasebook/patents/"> from contributors.
 
 <h4 id="private-use">
 🟢 Private Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-DEFINITION
+The licensed material may be used and modified in private.
 
 <!-- <h4 id="term">
 🟢 TERM
@@ -999,7 +999,7 @@ A copy of the license and copyright notice must be included with the licensed ma
 🔵 Network Use is <a title="#distribution" href="#distribution"><i>Distribution</i></a>
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-Users who interact with the licensed material [via network](https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution) are given the right to receive a copy of the source code.
+Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given the right to receive a copy of the source code.
 
 <h4 id="same-license">
 🔵 Same License
