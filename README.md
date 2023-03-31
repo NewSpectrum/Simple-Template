@@ -139,9 +139,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			GNU Affero General Public License v3.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/GNU-AGPL-v3/LICENSE
-	</code>
+	<code>/.template/licenses/GNU-AGPL-v3/LICENSE</code>
 	<br /><br />
 	<p>
 		Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
@@ -202,9 +200,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			GNU General Public License v3.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/GNU-AGPL-v3/LICENSE
-	</code>
+	<code>/.template/licenses/GNU-AGPL-v3/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -263,9 +259,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			GNU Lesser General Public License v3.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/GNU-AGPL-v3/LICENSE
-	</code>
+	<code>/.template/licenses/GNU-AGPL-v3/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -324,9 +318,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			Mozilla Public License 2.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/Mozilla-v2/LICENSE
-	</code>
+	<code>/.template/licenses/Mozilla-v2/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -391,9 +383,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			Apache Public License 2.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/Apache-v2/LICENSE
-	</code>
+	<code>/.template/licenses/Apache-v2/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -458,9 +448,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			MIT (Public) License
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/MIT/LICENSE
-	</code>
+	<code>/.template/licenses/MIT/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -525,9 +513,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			Boost Software License 1.0
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/Boost-SL-v1/LICENSE
-	</code>
+	<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -592,9 +578,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 			The Unlicense
 		</a>
 	</h4>
-	<code>
-		/.template/licenses/The-Unlicense/LICENSE
-	</code>
+	<code>/.template/licenses/The-Unlicense/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
