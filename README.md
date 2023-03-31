@@ -53,15 +53,19 @@ Simple-Template  # Replace with your Repository Name
 
 The default license for this template is the [MIT License](https://choosealicense.com/licenses/mit/), but can be changed to any license that fits your needs.
 
-Simply choose your desired license, cut/copy it from the `../licenses` directory, and paste it into the [root directory]() of your repository. Once you've pasted the `.license` file, delete the old `/LICENSE` and rename the `.license` file to `LICENSE` (it is recommended you don't add an extension).
+### Choosing a New License
+
+Simply choose your desired license, cut/copy the `LICENSE` file from its parent directory `../licenses/[license-name]`, and paste it into the [root directory]() of your repository (overwrite the existing file).
+
+#### Need Help Choosing?
+
+Below are summaries[^choosealicense.com] of each license in the `/.template/licenses` directory. Each License Summary has the same table of [Permissions](), [Conditions](), and [Limitations]() that you would see when viewing the license on __GitHub__, or if you visit the license webpage on the *GitHub&#8209;Recommended* __[Choose a License](https://choosealicense.com/)__ Website.
 
 Once you've settled on a license, feel free to delete the `/.template/licenses` directory completely, as it is unnecessary to keep in the long run. You can always visit the following if you choose to change the license again:
 - The official [Choose a License](https://choosealicense.com/) Website
 - The New Spectrum Template
 	- [License Info (README)](https://github.com/NewSpectrum/Simple-Template/blob/main/README.md#licenses)
 	- [Licenses Directory](https://github.com/NewSpectrum/Simple-Template/blob/main/.template/licenses)
-
-Below are summaries[^choosealicense.com] of each license in the `/.template/licenses` directory.
 
 <br />
 
