@@ -55,7 +55,7 @@ The default license for this template is the [MIT License](https://choosealicens
 
 ### Choosing a New License
 
-Simply choose your desired license, cut/copy the `LICENSE` file from its parent directory `../licenses/[license&#8209;name]`, and paste it into the [root directory]() of your repository (overwrite the existing file).
+Simply choose your desired license, Cut or Copy the `LICENSE` file from its parent directory <code>../licenses/[license&#8209;name]</code>, and Paste it into the [root directory]() of your repository (overwrite the existing file).
 
 #### Need Help Choosing?
 
