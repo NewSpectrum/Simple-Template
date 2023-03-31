@@ -22,9 +22,6 @@
 !Documentation*/
 !Documentation/
 #|
-#|  - Base Name: 'ns-[name]-template'
-!/.ns-simple-template/
-#|
 #|  - Base Name: 'placeholder'
 !.placeholder
 !placeholder
@@ -76,30 +73,30 @@ tmp.*
 #|
 #|  Ignore Misc Folders
 #|  - Base Name: 'misc'
-*.misc/
-*-misc/
-*_misc/
-.misc.*/
-.misc-*/
-.misc_*/
-.misc/
-misc.*/
-misc-*/
-misc_*/
-misc/
+# *.misc/
+# *-misc/
+# *_misc/
+# .misc.*/
+# .misc-*/
+# .misc_*/
+# .misc/
+# misc.*/
+# misc-*/
+# misc_*/
+# misc/
 #|
 #|
 #|  Ignore Misc Files
 #|  - Base Name: 'misc'
-*.misc.*
-*-misc.*
-*_misc.*
-*.misc.*.*
-*.misc-*.*
-*.misc_*.*
-.misc.*
-misc.*
-*.misc
+# *.misc.*
+# *-misc.*
+# *_misc.*
+# *.misc.*.*
+# *.misc-*.*
+# *.misc_*.*
+# .misc.*
+# misc.*
+# *.misc
 
 
 #|=======================|#
