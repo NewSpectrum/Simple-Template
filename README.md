@@ -69,10 +69,11 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 <br />
 
+
 <!--
 !★ License Name
 
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">LICENSE</h3>
 	</summary>
@@ -129,7 +130,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU Affero General Public License v3.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">GNU AGPLv3</h3>
 	</summary>
@@ -162,53 +163,55 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 		<tr>
 			<td>
 				🟢 <a title="The licensed material and derivatives may be used for commercial purposes"
-				      href="#txt">
+				      href="#commercial-use">
 					Commercial Use
 				   </a><br />
 				🟢 <a title="The licensed material may be distributed."
-				      href="#txt">
+				      href="#distribution">
 					Distribution
 				   </a><br />
 				🟢 <a title="The licensed material may be modified."
-				      href="#txt">
+				      href="#modification">
 					Modification
 				   </a><br />
 				🟢 <a title="This license provides an express grant of patent rights from contributors."
-				      href="#txt">
+				      href="#patent-use">
 					Patent Use
 				   </a><br />
 				🟢 <a title="The licensed material may be used and modified in private."
-				      href="#txt">
+				      href="#private-use">
 					Private Use
 				   </a><br />
 			</td>
 			<td>
 				🔵 <a title="Mouseover"
-				      href="#txt">
+				      href="#disclose-source">
 					Disclose Source
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#txt">
-					License & Copyright Notice
+				      href="#license-and-copyright-notice">
+					License and Copyright Notice
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#txt">
+				      href="#network-use-is-distribution">
 					Network Use is <i>Distribution</i>
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#txt">
+				      href="#same-license">
 					Same License
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#txt">
+				      href="#state-change">
 					State Change
 				   </a>
 			</td>
 			<td>
-				🔴 <a title="This license includes a limitation of liability." href="#liability">
+				🔴 <a title="This license includes a limitation of liability."
+				      href="#liability">
 					Liability
 				   </a><br />
-				🔴 <a title="This license explicitly states that it does NOT provide any warranty." href="#warranty">
+				🔴 <a title="This license explicitly states that it does NOT provide any warranty."
+				      href="#warranty">
 					Warranty
 				   </a>
 			</td>
@@ -222,7 +225,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU General Public License v3.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">GNU GPLv3</h3>
 	</summary>
@@ -323,7 +326,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU Lesser General Public License v3.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">GNU LGPLv3</h3>
 	</summary>
@@ -424,7 +427,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Mozilla Public License 2.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">Mozilla 2.0</h3>
 	</summary>
@@ -525,7 +528,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Apache License 2.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">Apache 2.0</h3>
 	</summary>
@@ -626,7 +629,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ MIT License
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">MIT License</h3>
 	</summary>
@@ -727,7 +730,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Boost Software License 1.0
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">Boost SL 1.0</h3>
 	</summary>
@@ -828,7 +831,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ The Unlicense
 /-->
-<details open>
+<details>
 	<summary>
 		<h3 style="display: inline">The Unlicense</h3>
 	</summary>
@@ -924,10 +927,155 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	</table>
 </details>
 
+<br /><br />
+
+## License Definitions
+
+<details open>
+<summary>
+	<h3 style="display: inline">
+		Permissions
+	</h3>
+</summary>
+
+<h4 id="commercial-use">
+🟢 Commercial Use
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+The licensed material and derivatives may be used for commercial purposes.
+
+<h4 id="distribution">
+🟢 Distribution
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+The licensed material may be distributed.
+
+<h4 id="modification">
+🟢 Modification
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+The licensed material may be modified.
+
+<h4 id="patent-use">
+🟢 Patent Use
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+This license provides an express grant of *[Patent Rights](https://google.github.io/opencasebook/patents/)* from contributors.
+
+<h4 id="private-use">
+🟢 Private Use
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION
+
+<!-- <h4 id="term">
+🟢 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+</details><br />
 
 
+<details>
+	<summary>
+		<h3 style="display: inline">
+		Conditions
+		</h3>
+	</summary>
+
+<h4 id="disclose-source">
+🔵 Disclose Source
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+Source code must be made available when the licensed material is distributed.
+
+<h4 id="license-and-copyright-notice">
+🔵 License & Copyright Notice
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+A copy of the license and copyright notice must be included with the licensed material.
+
+<h4 id="network-use-is-distribution">
+🔵 Network Use is <a title="#distribution" href="#distribution"><i>Distribution</i></a>
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+Users who interact with the licensed material [via network](https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution) are given the right to receive a copy of the source code.
+
+<h4 id="same-license">
+🔵 Same License
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.
+
+<h4 id="state-changes">
+🔵 State Changes
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+Changes made to the licensed material must be documented.
+
+<!-- <h4 id="term">
+🔵 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+
+<!-- <h4 id="term">
+🔵 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+</details><br />
 
 
+<details>
+	<summary>
+		<h3 style="display: inline">
+		Limitations
+		</h3>
+	</summary>
+
+<h4 id="liability">
+🔴 Liability
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+This license includes a limitation of liability.
+
+<h4 id="warranty">
+🔴 Warranty
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+This license explicitly states that it does NOT provide any warranty.
+
+<!-- <h4 id="term">
+🔴 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+
+<!-- <h4 id="term">
+🔴 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+
+<!-- <h4 id="term">
+🔴 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+
+<!-- <h4 id="term">
+🔴 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+
+<!-- <h4 id="term">
+🔴 TERM
+</h4>
+&#160;&#160;&#160;&#160;&#160;
+DEFINITION -->
+</details><br />
 
 <br />
 
