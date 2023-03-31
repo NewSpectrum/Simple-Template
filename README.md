@@ -161,24 +161,46 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 Commercial use<br />
-			🟢 Distribution<br />
-			🟢 Modification<br />
-			🟢 Patent use<br />
-			🟢 Private use<br />
+				🟢 <a title="The licensed material and derivatives may be used for commercial purposes">
+					Commercial Use
+				   </a><br />
+				🟢 <a title="The licensed material may be distributed.">
+					Distribution
+				   </a><br />
+				🟢 <a title="The licensed material may be modified.">
+					Modification
+				   </a><br />
+				🟢 <a title="This license provides an express grant of patent rights from contributors.">
+					Patent Use
+				   </a><br />
+				🟢 <a title="The licensed material may be used and modified in private.">
+					Private Use
+				   </a><br />
 			</td>
 			<td>
-			🔵 Disclose Source<br />
-			🔵 License & Copyright Notice<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					Disclose Source
+				   </a><br />
+				🔵 <a title="Mouseover">
+					License & Copyright Notice
+				   </a><br />
+				🔵 <a title="Mouseover">
+					Network Use is <i>Distribution</i>
+				   </a><br />
+				🔵 <a title="Mouseover">
+					Same License
+				   </a><br />
+				🔵 <a title="Mouseover">
+					State Change
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="This license includes a limitation of liability.">
+					Liability
+				   </a><br />
+				🔴 <a title="This license explicitly states that it does NOT provide any warranty.">
+					Warranty
+				   </a>
 			</td>
 		</tr>
 	</tbody>
@@ -222,22 +244,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -281,22 +345,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -340,28 +446,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -405,28 +547,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -470,28 +648,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -535,28 +749,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
@@ -600,28 +850,64 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
-			🟢 ITEM<br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
-			🔵 ITEM<br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 			<td>
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
-			🔴 ITEM<br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
 			</td>
 		</tr>
 	</tbody>
