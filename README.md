@@ -587,7 +587,6 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 <br /><br />
 
-[^choosealicense.com]: __Source: The *Choose a License* Website__
-<br />
-All [Licenses](#licenses) and their summaries are from [choosealicense.com](https://choosealicense.com), which is officially recommended by [GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-license).
+[^choosealicense.com]: __Source: The *Choose a License* Website__<br />
+	All [Licenses](#licenses) and their summaries are from [choosealicense.com](https://choosealicense.com), which is officially recommended by [GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-license).
 
