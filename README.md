@@ -960,7 +960,7 @@ The licensed material may be modified.
 🟢 Patent Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-This license provides an express grant of <a title="Patents in Open Source" href="https://google.github.io/opencasebook/patents/"> from contributors.
+This license provides an express grant of <a title="Patents in Open Source" href="https://google.github.io/opencasebook/patents/">patent rights</a> from contributors.
 
 <h4 id="private-use">
 🟢 Private Use
@@ -973,7 +973,7 @@ The licensed material may be used and modified in private.
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 DEFINITION -->
-</details><br />
+</details>
 
 
 <details>
@@ -999,13 +999,19 @@ A copy of the license and copyright notice must be included with the licensed ma
 🔵 Network Use is <a title="#distribution" href="#distribution"><i>Distribution</i></a>
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given the right to receive a copy of the source code.
+Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given<br />&#160;&#160;&#160;&#160;&#160;
+the right to receive a copy of the source code.
+
+<!--
+Users who interact with the licensed material via network are given the right to receive a copy of the source code.
+/-->
 
 <h4 id="same-license">
 🔵 Same License
 </h4>
 &#160;&#160;&#160;&#160;&#160;
-Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.
+Modifications must be released under the same license when distributing<br />&#160;&#160;&#160;&#160;&#160;
+the licensed material. In some cases a similar or related license may be used.
 
 <h4 id="state-changes">
 🔵 State Changes
@@ -1024,7 +1030,7 @@ DEFINITION -->
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 DEFINITION -->
-</details><br />
+</details>
 
 
 <details>
@@ -1075,7 +1081,7 @@ DEFINITION -->
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 DEFINITION -->
-</details><br />
+</details>
 
 <br />
 
