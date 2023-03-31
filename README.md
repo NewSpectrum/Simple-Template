@@ -161,44 +161,54 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="The licensed material and derivatives may be used for commercial purposes">
+				🟢 <a title="The licensed material and derivatives may be used for commercial purposes"
+				      href="#txt">
 					Commercial Use
 				   </a><br />
-				🟢 <a title="The licensed material may be distributed.">
+				🟢 <a title="The licensed material may be distributed."
+				      href="#txt">
 					Distribution
 				   </a><br />
-				🟢 <a title="The licensed material may be modified.">
+				🟢 <a title="The licensed material may be modified."
+				      href="#txt">
 					Modification
 				   </a><br />
-				🟢 <a title="This license provides an express grant of patent rights from contributors.">
+				🟢 <a title="This license provides an express grant of patent rights from contributors."
+				      href="#txt">
 					Patent Use
 				   </a><br />
-				🟢 <a title="The licensed material may be used and modified in private.">
+				🟢 <a title="The licensed material may be used and modified in private."
+				      href="#txt">
 					Private Use
 				   </a><br />
 			</td>
 			<td>
-				🔵 <a title="Mouseover">
+				🔵 <a title="Mouseover"
+				      href="#txt">
 					Disclose Source
 				   </a><br />
-				🔵 <a title="Mouseover">
+				🔵 <a title="Mouseover"
+				      href="#txt">
 					License & Copyright Notice
 				   </a><br />
-				🔵 <a title="Mouseover">
+				🔵 <a title="Mouseover"
+				      href="#txt">
 					Network Use is <i>Distribution</i>
 				   </a><br />
-				🔵 <a title="Mouseover">
+				🔵 <a title="Mouseover"
+				      href="#txt">
 					Same License
 				   </a><br />
-				🔵 <a title="Mouseover">
+				🔵 <a title="Mouseover"
+				      href="#txt">
 					State Change
-				   </a><br />
+				   </a>
 			</td>
 			<td>
-				🔴 <a title="This license includes a limitation of liability.">
+				🔴 <a title="This license includes a limitation of liability." href="#liability">
 					Liability
 				   </a><br />
-				🔴 <a title="This license explicitly states that it does NOT provide any warranty.">
+				🔴 <a title="This license explicitly states that it does NOT provide any warranty." href="#warranty">
 					Warranty
 				   </a>
 			</td>
