@@ -1,1 +1,0 @@
-# Git Tips & Resources
