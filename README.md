@@ -1,3 +1,14 @@
-# NS Simple Template
+### New Spectrum Templates
 
-A basic Template Repository for __[GitHub](https://github.com/)__
+# Simple All-Purpose Template
+
+A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.com/)__.
+
+
+
+<br />
+
+---
+
+# Template Details
+
