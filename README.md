@@ -30,7 +30,7 @@ A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.c
 
 ## File Structure
 ```shell
-Simple-Template  # Replace with your Repository Name
+Simple-Template  # Root Directory (Replace with your Repository Name)
   |--/.github                # Contains config & template files for your GitHub Repository
   |  |-------/templates      # Used to store templates for 'Issues' and 'Discussions'
   |          |---------/...
