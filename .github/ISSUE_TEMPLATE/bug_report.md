@@ -3,14 +3,25 @@ name: Bug Report
 about: |
   Create and submit a report for a bug you've discovered related to this repository.
   The more details you add, the easier it will be to resolve the issue.
-title: ''
-labels: ''
+title: '[BUG] YOUR TITLE'
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Summary
+A __*short*__ and concise *summary* of the problem/bug.
+
+__*Please*__ do not exceed __1-3 sentences__ for your Summary. Short summaries make it easy to filter through issues for a variety of purposes (finding duplicates, prioritization, checking tags, etc).
+
+
+<br />
+
+---
+
+# Description
+
+A detailed, open-ended description of the issue/bug. The description can be as long as you need it to be 
 
 **To Reproduce**
 Steps to reproduce the behavior:
