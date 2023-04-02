@@ -4,7 +4,7 @@ about: |
   Create and submit a report for a bug you've discovered related to this repository.
   The more details you add, the easier it will be to resolve the issue.
 title: '[BUG] YOUR TITLE'
-labels: 'bug'
+labels: 'Bug'
 assignees: ''
 
 ---
