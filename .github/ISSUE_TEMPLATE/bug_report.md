@@ -4,7 +4,7 @@ about: |
   Create and submit a report for a bug you've discovered related to this repository.
   The more details you add, the easier it will be to resolve the issue.
 title: '[BUG] YOUR TITLE'
-labels: 'Bug'
+labels: 'issue, bug'
 assignees: ''
 
 ---
@@ -21,20 +21,33 @@ __*Please*__ do not exceed __1-3 sentences__ for your Summary. Short summaries m
 
 # Description
 
-A detailed, open-ended description of the issue/bug. The description can be as long as you need it to be 
+A detailed, open-ended description of the issue/bug. The description can be as long as you need it to be.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Steps Taken
+<!-- List the steps taken that originally produced the issue. This is slightly different from the "Steps to Reproduce" section. -->
 
-**Expected behavior**
+
+### Expected Behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+
+## Steps to Reproduce
+If possible, add steps that others can use to reproduce the issue.
+
+1. First step
+    - Additional information
+2. Second Step
+
+
+
+
+---
+# Screen Captures
+
+
+## Screenshots
 If applicable, add screenshots to help explain your problem.
+
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
