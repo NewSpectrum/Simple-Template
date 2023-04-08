@@ -1,6 +1,30 @@
 {
 	"recommendations": [
+//+ Must-Have Extensions
+	//- Markdown Preview Extension Pack (6 extensions)
 		"bierner.github-markdown-preview",
-		"aaron-bond.better-comments"
+	//- Customizable Comment Highlighting
+		"aaron-bond.better-comments",
+	//- Improved 'smart' icons for Visual Studio Code's file explorer
+		"PKief.material-icon-theme",
+	//- Improved icons for Visual Studio Code's built-in commands
+		"PKief.material-product-icons",
+		
+//+ Remote Development Extensions
+	//- Remote File System for Containers, SFTP (SSH), and WSL
+		"ms-vscode-remote.remote-containers",
+		    //* Open any files/folders in a Dev Container (e.g. Docker or GitHub Codespaces), on a remote machine, or in WSL and take advantage of VS Code's full feature set.
+		"ms-vscode-remote.remote-ssh",
+		
+
+//+ Git-Related Extensions
+	//- GitLens Tools for Git
+		"eamodio.gitlens",
+			//? A large portion of the tools included with GitLens are premium features and require a subscription. Most of the extensions below are alternatives to the most useful premium features (in my opinion anyway).
+	//- Improved Git History
+		"donjayamanne.githistory",
+			//? Alternative to GitLens premium 'File History' feature
+	//- Visualized Git History in a vertical 'flow-chart style' (alternative to GitLens)
+		"mhutchie.git-graph",
 	]
 }

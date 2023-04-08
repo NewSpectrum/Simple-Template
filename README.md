@@ -94,14 +94,24 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 <br />
 
-
 <!--
-!★ License Name
-
-<details>
+!★ License Details Template
+/-->
+<!--
+<details id="license_[ID]">
 	<summary>
-		<h3 style="display: inline">LICENSE</h3>
+		<h3 id="gnu-agplv3" style="display: inline">
+			[LICENSE NAME]
+		</h3>
 	</summary>
+	<h4>
+		<a href="https://choosealicense.com/licenses/agpl-3.0/"
+		   title="choosealicense.com/licenses/agpl-3.0/">
+			[LICENSE ABBREVIATION]
+		</a>
+	</h4>
+	<code>/.template/licenses/[LICENSE-DIR]/LICENSE</code>
+	<br /><br />
 	<p>
 		SUMMARY
 	</p>
@@ -159,9 +169,11 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 
 
+<br /><br />
 
+---
 
-
+<br /><br />
 
 <!--
 !★ GNU Affero General Public License v3.0
