@@ -24,13 +24,13 @@ A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.c
 
 #### [The `.tempalte` Directory](#the-template-directory)
 - [Licenses](#licenses)
+	- [Apache Public License v2.0](#apl-v2)
+	- [Boost Software License v1.0](#bsl-v1)
 	- [GNU Affero General Public License v3.0](#gnu-agplv3)
 	- [GNU General Public License v3.0](#gnu-gplv3)
 	- [GNU Lesser General Public License v3.0](#gnu-lgplv3)
-	- [Mozilla Public License v2.0](#mpl-v2)
-	- [Apache Public License v2.0](#apl-v2)
 	- [MIT Public License](#mit-pl)
-	- [Boost Software License v1.0](#bsl-v1)
+	- [Mozilla Public License v2.0](#mpl-v2)
 	- [The Unlicense](#the-unlicense)
 - [License Definitions](#license-definitions)
 
@@ -82,7 +82,7 @@ The default license for this template is the [MIT License](https://choosealicens
 
 Simply choose your desired license, Cut or Copy the `LICENSE` file from its parent directory <code>../licenses/[license&#8209;name]</code>, and Paste it into the [root directory]() of your repository (overwrite the existing file).
 
-#### Need Help Choosing?
+### Need Help Choosing?
 
 Below are summaries[^choosealicense.com] of each license in the `/.template/licenses` directory. Each License Summary has the same table of [Permissions](), [Conditions](), and [Limitations]() that you would see when viewing the license on __GitHub__, or if you visit the license webpage on the *GitHub&#8209;Recommended* __[Choose a License](https://choosealicense.com/)__ Website.
 
@@ -174,15 +174,25 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 		</h3>
 	</summary>
 	<h4>
+		Reference:	
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;
 		<a href="https://choosealicense.com/licenses/apache-2.0/"
 		   title="choosealicense.com/licenses/apache-2.0/">
 			Apache License 2.0
 		</a>
+	</p>
+	<h4>
+		Path:
 	</h4>
-	<code>/.template/licenses/Apache-v2/LICENSE</code>
+	<p>
+		&#160;&#160;&#160;&#160;
+		<code>/.template/licenses/Apache-v2/LICENSE</code>
+	</p>
 	<br /><br />
 	<p>
-		SUMMARY
+		A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 	</p>
 	<table>
 	<thead>
@@ -201,35 +211,31 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_commercial-use"
+				      title="The licensed material and derivatives may be used for commercial purposes">
+					Commercial Use
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_distribution"
+					  title="The licensed material may be distributed.">
+					Distribution
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_modification"
+				      title="The licensed material may be modified.">
+					Modification
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_patent-use"
+					  title="This license provides an express grant of patent rights from contributors.">
+					Patent Use
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_private-use"
+					  title="The licensed material may be used and modified in private.">
+					Private Use
 				   </a><br />
 			</td>
 			<td>
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
+				🔵 <a href="#conditions_license-and-copyright-notice-for-source"
+				      title="A copy of the license and copyright notice must be included with the licensed material in source form, but is not required for binaries.">
+					License & Copyright Notice for Source
 				   </a><br />
 				🔵 <a href="#conditions_"
 				      title="Mouseover">
@@ -296,12 +302,22 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 		</h3>
 	</summary>
 	<h4>
+		Reference:
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;
 		<a href="https://choosealicense.com/licenses/bsl-1.0/"
 		   title="choosealicense.com/licenses/bsl-1.0/">
 			Boost Software License v1.0
 		</a>
+	</p>
+	<h4>
+		Path:
 	</h4>
-	<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
+	<p>
+		&#160;&#160;&#160;&#160;
+		<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
+	</p>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -323,29 +339,21 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_commercial-use"
+				      title="The licensed material and derivatives may be used for commercial purposes">
+					Commercial Use
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_distribution"
+					  title="The licensed material may be distributed.">
+					Distribution
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_modification"
+				      title="The licensed material may be modified.">
+					Modification
 				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a href="#permissions_"
-				      title="Mouseover">
-					ITEM
+				🟢 <a href="#permissions_private-use"
+					  title="The licensed material may be used and modified in private.">
+					Private Use
 				   </a><br />
 			</td>
 			<td>
@@ -444,24 +452,24 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="The licensed material and derivatives may be used for commercial purposes"
-				      href="#permissions_commercial-use">
+				🟢 <a href="#permissions_commercial-use"
+				      title="The licensed material and derivatives may be used for commercial purposes">
 					Commercial Use
 				   </a><br />
-				🟢 <a title="The licensed material may be distributed."
-				      href="#permissions_distribution">
+				🟢 <a href="#permissions_distribution"
+					  title="The licensed material may be distributed.">
 					Distribution
 				   </a><br />
-				🟢 <a title="The licensed material may be modified."
-				      href="#permissions_modification">
+				🟢 <a href="#permissions_modification"
+				      title="The licensed material may be modified.">
 					Modification
 				   </a><br />
-				🟢 <a title="This license provides an express grant of patent rights from contributors."
-				      href="#permissions_patent-use">
+				🟢 <a href="#permissions_patent-use"
+					  title="This license provides an express grant of patent rights from contributors.">
 					Patent Use
 				   </a><br />
-				🟢 <a title="The licensed material may be used and modified in private."
-				      href="#permissions_private-use">
+				🟢 <a href="#permissions_private-use"
+					  title="The licensed material may be used and modified in private.">
 					Private Use
 				   </a><br />
 			</td>
@@ -1172,58 +1180,74 @@ DEFINITION -->
 		Conditions
 		</h3>
 	</summary>
-
-<h4 id="conditions_disclose-source">
-🔵 Disclose Source
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-Source code must be made available when the licensed material is distributed.
-
-<h4 id="conditions_license-and-copyright-notice">
-🔵 License & Copyright Notice
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-A copy of the license and copyright notice must be included with the licensed material.
-
-<h4 id="conditions_network-use-is-distribution">
-🔵 Network Use is <a title="#distribution" href="#permissions_distribution"><i>Distribution</i></a>
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given<br />&#160;&#160;&#160;&#160;&#160;
-the right to receive a copy of the source code.
+	<h4 id="conditions_disclose-source">
+		🔵 Disclose Source
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			Source code must be made available when the licensed material is distributed.
+		</p>
+<!-- break -->
+	<h4 id="conditions_license-and-copyright-notice">
+		🔵 License & Copyright Notice
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			A copy of the license and copyright notice must be included with the licensed material.
+		</p>
+<!-- break -->
+	<h4 id="conditions_license-and-copyright-notice-for-source">
+		🔵 License & Copyright Notice for Source
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			A copy of the license and copyright notice must be included with
+			<br />&#160;&#160;&#160;&#160;&#160;
+			the licensed material in source form, but is not required for binaries.
+		</p>
+<!-- break -->
+	<h4 id="conditions_network-use-is-distribution">
+	🔵 Network Use is <a title="#distribution" href="#permissions_distribution"><i>Distribution</i></a>
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given
+			<br />&#160;&#160;&#160;&#160;&#160;
+			the right to receive a copy of the source code.
+		</p>
+<!-- break -->
+	<h4 id="conditions_same-license">
+		🔵 Same License
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			Modifications must be released under the same license when distributing
+			<br />&#160;&#160;&#160;&#160;&#160;
+			the licensed material. In some cases a similar or related license may be used.
+		</p>
+<!-- break -->
+	<h4 id="conditions_state-changes">
+		🔵 State Changes
+	</h4>
+		<p>
+			&#160;&#160;&#160;&#160;&#160;
+			Changes made to the licensed material must be documented.
+		</p>
 
 <!--
-Users who interact with the licensed material via network are given the right to receive a copy of the source code.
+	<h4 id="conditions_term">
+		🔵 TERM
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;&#160;
+		DEFINITION
+	</p>
 /-->
-
-<h4 id="conditions_same-license">
-🔵 Same License
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-Modifications must be released under the same license when distributing<br />&#160;&#160;&#160;&#160;&#160;
-the licensed material. In some cases a similar or related license may be used.
-
-<h4 id="conditions_state-changes">
-🔵 State Changes
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-Changes made to the licensed material must be documented.
-
-<!-- <h4 id="term">
-🔵 TERM
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-DEFINITION -->
-
-<!-- <h4 id="term">
-🔵 TERM
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-DEFINITION -->
 </details>
 
 
 <br />
+
 <details id="license-glossary_limitations" open>
 	<summary>
 		<h3 id="limitations_glossary"
