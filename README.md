@@ -4,8 +4,13 @@
 
 A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.com/)__.
 
+## Recommended Usage
+- Generating Additional Templates
+- Starting 'from-scratch' without actually starting from scratch
 
 
+
+<br />
 <details open>
 <summary>
 	<h2 style="display: inline">
@@ -31,16 +36,23 @@ A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.c
 ## File Structure
 ```shell
 Simple-Template  # Root Directory (Replace with your Repository Name)
-  |--/.github                # Contains config & template files for your GitHub Repository
-  |  |-------/templates      # Used to store templates for 'Issues' and 'Discussions'
+  |--/.github                  # Contains config & template files for your GitHub Repository
+  |  |-------/ISSUE_TEMPLATE   # 
+  |  |-------/templates        # Used to store additional templates for 'Issues' and 'Discussions'
   |          |---------/...
-  |  |-------/workflows      # Used to store YAML (.yml/.yaml) files for GitHub Actions
+  |  |-------/workflows        # Used to store YAML (.yml/.yaml) files for GitHub Actions
   |          |---------/...
-  |--/.template              # Files to configure your repo beyond the initial setup
-  |  |---------/licenses     # Change the license for the repository to one of your choosing
+  |--/.template                # Files to configure your repo beyond the initial setup
+  |  |---------/licenses       # Change the license for the repository to one of your choosing
 
 ```
 
+### File Structure Details
+
+| Item | Description |
+| :--- | :---        |
+| `Root Directory` \| `~/` | Default name is 'Simple-Template'. Change the name of this folder by renaming the repository when you fork it. |
+| `~/.git` | The `git` configuration folder for the repository. By default, this folder is hidden in most editors and is *literally* a hidden directory in Windows. __DO *NOT*__ modify the contents of this file unless you are absolutely sure you know what you're doing. |
 
 
 <br />
