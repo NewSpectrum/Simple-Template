@@ -5,18 +5,31 @@
 A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.com/)__.
 
 
-
+<br />
 <details open>
 <summary>
-	<h2 style="display: inline">
+	<h2 id="table-of-contents" style="display: inline">
 		Table of Contents
 	</h2>
 </summary>
 
 ### [Template Details](#template-details-1)
 - [File Structure](#file-structure)
-- [The `.tempalte` Directory](#the-template-directory)
-- [The `.github` Directory](#the-github-directory)
+
+
+#### [The `.tempalte` Directory](#the-template-directory)
+- [Licenses](#licenses)
+	- [GNU Affero General Public License v3.0](#gnu-agplv3)
+	- [GNU General Public License v3.0](#gnu-gplv3)
+	- [GNU Lesser General Public License v3.0](#gnu-lgplv3)
+	- [Mozilla Public License v2.0](#mpl-v2)
+	- [Apache Public License v2.0](#apl-v2)
+	- [MIT Public License](#mit-pl)
+	- [Boost Software License v1.0](#bsl-v1)
+	- [The Unlicense](#the-unlicense)
+- [License Definitions](#license-definitions)
+
+#### [The `.github` Directory](#the-github-directory)
 
 </details>
 
@@ -127,12 +140,25 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 /-->
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!--
 !★ GNU Affero General Public License v3.0
 /-->
-<details>
+<details id="license_GNU-AGPLv3">
 	<summary>
-		<h3 style="display: inline">GNU AGPLv3</h3>
+		<h3 id="gnu-agplv3" style="display: inline">
+			GNU AGPLv3
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/agpl-3.0/"
@@ -225,9 +251,11 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU General Public License v3.0
 /-->
-<details>
+<details id="license_GNU-GPLv3">
 	<summary>
-		<h3 style="display: inline">GNU GPLv3</h3>
+		<h3 id="gnu-gplv3" style="display: inline">
+			GNU GPLv3
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/gpl-3.0/"
@@ -326,9 +354,12 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU Lesser General Public License v3.0
 /-->
-<details>
+<details id="license_GNU-LGPLv3">
 	<summary>
-		<h3 style="display: inline">GNU LGPLv3</h3>
+		<h3 id="gnu-lgplv3"
+		    style="display: inline">
+			GNU LGPLv3
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/lgpl-3.0/"
@@ -427,14 +458,17 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Mozilla Public License 2.0
 /-->
-<details>
+<details id="license_MPLv2">
 	<summary>
-		<h3 style="display: inline">Mozilla 2.0</h3>
+		<h3 id="mpl-v2"
+		    style="display: inline">
+			Mozilla Public License v2.0
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/mpl-2.0/"
 		   title="choosealicense.com/licenses/mpl-2.0/">
-			Mozilla Public License 2.0
+			Mozilla Public License v2.0
 		</a>
 	</h4>
 	<code>/.template/licenses/Mozilla-v2/LICENSE</code>
@@ -528,14 +562,17 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Apache License 2.0
 /-->
-<details>
+<details id="license_APLv2">
 	<summary>
-		<h3 style="display: inline">Apache 2.0</h3>
+		<h3 id="apl-v2"
+		    style="display: inline">
+			Apache Public License v2.0
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/apache-2.0/"
 		   title="choosealicense.com/licenses/apache-2.0/">
-			Apache Public License 2.0
+			Apache License 2.0
 		</a>
 	</h4>
 	<code>/.template/licenses/Apache-v2/LICENSE</code>
@@ -629,9 +666,12 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ MIT License
 /-->
-<details>
+<details id="license_MIT">
 	<summary>
-		<h3 style="display: inline">MIT License</h3>
+		<h3 id="mit-pl"
+		    style="display: inline">
+			MIT Public License
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/mit/"
@@ -730,14 +770,17 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ Boost Software License 1.0
 /-->
-<details>
+<details id="license_BSLv1">
 	<summary>
-		<h3 style="display: inline">Boost SL 1.0</h3>
+		<h3 id="bsl-v1"
+		    style="display: inline">
+			Boost Software License v1.0
+		</h3>
 	</summary>
 	<h4>
-		<a href="https://choosealicense.com/licenses/LICENSE/"
-		   title="choosealicense.com/licenses/LICENSE/">
-			Boost Software License 1.0
+		<a href="https://choosealicense.com/licenses/bsl-1.0/"
+		   title="choosealicense.com/licenses/bsl-1.0/">
+			Boost Software License v1.0
 		</a>
 	</h4>
 	<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
@@ -831,9 +874,12 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ The Unlicense
 /-->
-<details>
+<details id="license_TheUnlicense">
 	<summary>
-		<h3 style="display: inline">The Unlicense</h3>
+		<h3 id="the-unlicense"
+		    style="display: inline">
+			The Unlicense
+		</h3>
 	</summary>
 	<h4>
 		<a href="https://choosealicense.com/licenses/unlicense/"
@@ -928,6 +974,9 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 </details>
 
 <br /><br />
+
+
+
 
 ## License Definitions
 
