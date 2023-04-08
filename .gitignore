@@ -40,6 +40,15 @@
 #|
 #|  Ignore Temporary Folders
 #|  - Base Name: 'tmp'
+#|  - IMPORTANT: Do NOT use 'temp' as a base name as it will also ignore 'template' files/folders
+#|  - NOTE: This is a 'catch-all' for any 'tmp' directories.
+#|		- If you have a specific 'tmp' directory that you wish to track, you can...
+#|			- Remove the specific 'tmp' declaration from this list (not recommended)
+#|			- Add a '!' before the specific 'tmp' declaration (recommended)
+#|			- Add a '!**/[tmp directory]/*' to the list
+#|				- This will track all files/folders in the '[tmp directory]' regardless of location
+#|				- This is the recommended method for tracking potentially repeated 'tmp' directories
+#|			- Add a '!/[path to tmp dir]/' to the list
 *.tmp/
 *-tmp/
 *_tmp/
@@ -55,15 +64,35 @@ tmp/
 #|
 #|  Ignore Temporary Files
 #|  - Base Name: 'tmp'
+#|  - IMPORTANT: Do NOT use 'temp' as a base name as it will also ignore 'template' files/folders
+#|  - NOTE: This is a 'catch-all' for any 'tmp' directories.
+#|		- If you have a specific 'tmp' file that you wish to track, you can...
+#|			- Remove the specific 'tmp' declaration from this list (not recommended)
+#|			- Add a '!' before the specific 'tmp' declaration (recommended)
+#|			- Add a '!**/*[tmp declaration]*' to the list
+#|				- This will track all files using the '[tmp declaration]' regardless of location
+#|				- This is the recommended method for tracking potentially repeated 'tmp' directories
+#|			- Add a '!/[path to tmp dir]/' to the list
 *.tmp.*
+# Example: 'filename.tmp.html'
 *-tmp.*
+# Example: 'filename-tmp.html'
 *_tmp.*
+# Example: 'filename_tmp.html'
 *.tmp.*.*
+# Example: 'filename.tmp.identifier.html'
 *.tmp-*.*
+# Example: 'filename.tmp-identifier.html'
 *.tmp_*.*
+# Example: 'filename.tmp_identifier.html'
 .tmp.*
+# Example: '.tmp.html'
+#          '.tmp.filename.html'
 tmp.*
+# Example: 'tmp.html'
+#          'tmp.filename.html'
 *.tmp
+# Example: 'filename.html.tmp'
 
 
 #|========================|#

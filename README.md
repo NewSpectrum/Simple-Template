@@ -163,22 +163,218 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 
 
+<!--
+!★ Apache License 2.0
+/-->
+<details id="license_APLv2" open>
+	<summary>
+		<h3 id="apl-v2"
+		    style="display: inline">
+			Apache Public License v2.0
+		</h3>
+	</summary>
+	<h4>
+		<a href="https://choosealicense.com/licenses/apache-2.0/"
+		   title="choosealicense.com/licenses/apache-2.0/">
+			Apache License 2.0
+		</a>
+	</h4>
+	<code>/.template/licenses/Apache-v2/LICENSE</code>
+	<br /><br />
+	<p>
+		SUMMARY
+	</p>
+	<table>
+	<thead>
+		<tr>
+			<th>
+			Permissions
+			</th>
+			<th>
+			Conditions
+			</th>
+			<th>
+			Limitations
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+		</tr>
+	</tbody>
+	</table>
+</details>
 
 
 
+<!--
+!★ Boost Software License 1.0
+/-->
+<details id="license_BSLv1" open>
+	<summary>
+		<h3 id="bsl-v1"
+		    style="display: inline">
+			Boost Software License v1.0
+		</h3>
+	</summary>
+	<h4>
+		<a href="https://choosealicense.com/licenses/bsl-1.0/"
+		   title="choosealicense.com/licenses/bsl-1.0/">
+			Boost Software License v1.0
+		</a>
+	</h4>
+	<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
+	<br /><br />
+	<p>
+		SUMMARY
+	</p>
+	<table>
+	<thead>
+		<tr>
+			<th>
+			Permissions
+			</th>
+			<th>
+			Conditions
+			</th>
+			<th>
+			Limitations
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🟢 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔵 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+		</tr>
+	</tbody>
+	</table>
+</details>
 
 
-
-<br /><br />
-
----
-
-<br /><br />
 
 <!--
 !★ GNU Affero General Public License v3.0
 /-->
-<details id="license_GNU-AGPLv3">
+<details id="license_GNU-AGPLv3" open>
 	<summary>
 		<h3 id="gnu-agplv3" style="display: inline">
 			GNU AGPLv3
@@ -213,55 +409,55 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 		<tr>
 			<td>
 				🟢 <a title="The licensed material and derivatives may be used for commercial purposes"
-				      href="#commercial-use">
+				      href="#permissions_commercial-use">
 					Commercial Use
 				   </a><br />
 				🟢 <a title="The licensed material may be distributed."
-				      href="#distribution">
+				      href="#permissions_distribution">
 					Distribution
 				   </a><br />
 				🟢 <a title="The licensed material may be modified."
-				      href="#modification">
+				      href="#permissions_modification">
 					Modification
 				   </a><br />
 				🟢 <a title="This license provides an express grant of patent rights from contributors."
-				      href="#patent-use">
+				      href="#permissions_patent-use">
 					Patent Use
 				   </a><br />
 				🟢 <a title="The licensed material may be used and modified in private."
-				      href="#private-use">
+				      href="#permissions_private-use">
 					Private Use
 				   </a><br />
 			</td>
 			<td>
 				🔵 <a title="Mouseover"
-				      href="#disclose-source">
+				      href="#conditions_disclose-source">
 					Disclose Source
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#license-and-copyright-notice">
+				      href="#conditions_license-and-copyright-notice">
 					License and Copyright Notice
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#network-use-is-distribution">
+				      href="#conditions_network-use-is-distribution">
 					Network Use is <i>Distribution</i>
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#same-license">
+				      href="#conditions_same-license">
 					Same License
 				   </a><br />
 				🔵 <a title="Mouseover"
-				      href="#state-change">
+				      href="#conditions_state-change">
 					State Change
 				   </a>
 			</td>
 			<td>
 				🔴 <a title="This license includes a limitation of liability."
-				      href="#liability">
+				      href="#limitations_liability">
 					Liability
 				   </a><br />
 				🔴 <a title="This license explicitly states that it does NOT provide any warranty."
-				      href="#warranty">
+				      href="#limitations_warranty">
 					Warranty
 				   </a>
 			</td>
@@ -275,7 +471,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU General Public License v3.0
 /-->
-<details id="license_GNU-GPLv3">
+<details id="license_GNU-GPLv3" open>
 	<summary>
 		<h3 id="gnu-gplv3" style="display: inline">
 			GNU GPLv3
@@ -378,7 +574,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ GNU Lesser General Public License v3.0
 /-->
-<details id="license_GNU-LGPLv3">
+<details id="license_GNU-LGPLv3" open>
 	<summary>
 		<h3 id="gnu-lgplv3"
 		    style="display: inline">
@@ -480,217 +676,9 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 
 <!--
-!★ Mozilla Public License 2.0
-/-->
-<details id="license_MPLv2">
-	<summary>
-		<h3 id="mpl-v2"
-		    style="display: inline">
-			Mozilla Public License v2.0
-		</h3>
-	</summary>
-	<h4>
-		<a href="https://choosealicense.com/licenses/mpl-2.0/"
-		   title="choosealicense.com/licenses/mpl-2.0/">
-			Mozilla Public License v2.0
-		</a>
-	</h4>
-	<code>/.template/licenses/Mozilla-v2/LICENSE</code>
-	<br /><br />
-	<p>
-		SUMMARY
-	</p>
-	<table>
-	<thead>
-		<tr>
-			<th>
-			Permissions
-			</th>
-			<th>
-			Conditions
-			</th>
-			<th>
-			Limitations
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-		</tr>
-	</tbody>
-	</table>
-</details>
-
-
-
-<!--
-!★ Apache License 2.0
-/-->
-<details id="license_APLv2">
-	<summary>
-		<h3 id="apl-v2"
-		    style="display: inline">
-			Apache Public License v2.0
-		</h3>
-	</summary>
-	<h4>
-		<a href="https://choosealicense.com/licenses/apache-2.0/"
-		   title="choosealicense.com/licenses/apache-2.0/">
-			Apache License 2.0
-		</a>
-	</h4>
-	<code>/.template/licenses/Apache-v2/LICENSE</code>
-	<br /><br />
-	<p>
-		SUMMARY
-	</p>
-	<table>
-	<thead>
-		<tr>
-			<th>
-			Permissions
-			</th>
-			<th>
-			Conditions
-			</th>
-			<th>
-			Limitations
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-		</tr>
-	</tbody>
-	</table>
-</details>
-
-
-
-<!--
 !★ MIT License
 /-->
-<details id="license_MIT">
+<details id="license_MIT" open>
 	<summary>
 		<h3 id="mit-pl"
 		    style="display: inline">
@@ -792,22 +780,22 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 
 
 <!--
-!★ Boost Software License 1.0
+!★ Mozilla Public License 2.0
 /-->
-<details id="license_BSLv1">
+<details id="license_MPLv2" open>
 	<summary>
-		<h3 id="bsl-v1"
+		<h3 id="mpl-v2"
 		    style="display: inline">
-			Boost Software License v1.0
+			Mozilla Public License v2.0
 		</h3>
 	</summary>
 	<h4>
-		<a href="https://choosealicense.com/licenses/bsl-1.0/"
-		   title="choosealicense.com/licenses/bsl-1.0/">
-			Boost Software License v1.0
+		<a href="https://choosealicense.com/licenses/mpl-2.0/"
+		   title="choosealicense.com/licenses/mpl-2.0/">
+			Mozilla Public License v2.0
 		</a>
 	</h4>
-	<code>/.template/licenses/Boost-SL-v1/LICENSE</code>
+	<code>/.template/licenses/Mozilla-v2/LICENSE</code>
 	<br /><br />
 	<p>
 		SUMMARY
@@ -898,7 +886,7 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 <!--
 !★ The Unlicense
 /-->
-<details id="license_TheUnlicense">
+<details id="license_TheUnlicense" open>
 	<summary>
 		<h3 id="the-unlicense"
 		    style="display: inline">
@@ -997,51 +985,52 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	</table>
 </details>
 
+
+
+
 <br /><br />
-
-
-
 
 ## License Definitions
 
-<details>
-<summary>
-	<h3 style="display: inline">
-		Permissions
-	</h3>
-</summary>
+<details id="license-glossary_permissions" open>
+	<summary>
+		<h3 id="permissions_glossary"
+		    style="display: inline">
+			Permissions
+		</h3>
+	</summary>
 
-<h4 id="commercial-use">
+<h4 id="permissions_commercial-use">
 🟢 Commercial Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 The licensed material and derivatives may be used for commercial purposes.
 
-<h4 id="distribution">
+<h4 id="permissions_distribution">
 🟢 Distribution
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 The licensed material may be distributed.
 
-<h4 id="modification">
+<h4 id="permissions_modification">
 🟢 Modification
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 The licensed material may be modified.
 
-<h4 id="patent-use">
+<h4 id="permissions_patent-use">
 🟢 Patent Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 This license provides an express grant of <a title="Patents in Open Source" href="https://google.github.io/opencasebook/patents/">patent rights</a> from contributors.
 
-<h4 id="private-use">
+<h4 id="permissions_private-use">
 🟢 Private Use
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 The licensed material may be used and modified in private.
 
-<!-- <h4 id="term">
+<!-- <h4  id="permissions_term">
 🟢 TERM
 </h4>
 &#160;&#160;&#160;&#160;&#160;
@@ -1069,7 +1058,7 @@ Source code must be made available when the licensed material is distributed.
 A copy of the license and copyright notice must be included with the licensed material.
 
 <h4 id="network-use-is-distribution">
-🔵 Network Use is <a title="#distribution" href="#distribution"><i>Distribution</i></a>
+🔵 Network Use is <a title="#distribution" href="#permissions_distribution"><i>Distribution</i></a>
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 Users who interact with the licensed material <a title="Meaning of Network Use is Distribution" href="https://fossa.com/blog/open-source-software-licenses-101-agpl-license/#:~:text=it%20clear%20that-,network%20use,-counts%20as%20distribution">via network</a> are given<br />&#160;&#160;&#160;&#160;&#160;
