@@ -201,62 +201,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -305,62 +323,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -505,62 +541,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -609,62 +663,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -713,62 +785,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -817,62 +907,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -921,62 +1029,80 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 	<tbody>
 		<tr>
 			<td>
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🟢 <a title="Mouseover">
-					ITEM
-				   </a><br />
-			</td>
-			<td>
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a title="Mouseover">
+				🟢 <a href="#permissions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
-				🔴 <a title="Mouseover">
+				🔵 <a href="#conditions_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+			</td>
+			<td>
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
+					ITEM
+				   </a><br />
+				🔴 <a href="#limitations_"
+				      title="Mouseover">
 					ITEM
 				   </a><br />
 			</td>
@@ -1038,26 +1164,28 @@ DEFINITION -->
 </details>
 
 
-<details>
+<br />
+<details id="license-glossary_conditions" open>
 	<summary>
-		<h3 style="display: inline">
+		<h3 id="conditions_glossary"
+		    style="display: inline">
 		Conditions
 		</h3>
 	</summary>
 
-<h4 id="disclose-source">
+<h4 id="conditions_disclose-source">
 🔵 Disclose Source
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 Source code must be made available when the licensed material is distributed.
 
-<h4 id="license-and-copyright-notice">
+<h4 id="conditions_license-and-copyright-notice">
 🔵 License & Copyright Notice
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 A copy of the license and copyright notice must be included with the licensed material.
 
-<h4 id="network-use-is-distribution">
+<h4 id="conditions_network-use-is-distribution">
 🔵 Network Use is <a title="#distribution" href="#permissions_distribution"><i>Distribution</i></a>
 </h4>
 &#160;&#160;&#160;&#160;&#160;
@@ -1068,14 +1196,14 @@ the right to receive a copy of the source code.
 Users who interact with the licensed material via network are given the right to receive a copy of the source code.
 /-->
 
-<h4 id="same-license">
+<h4 id="conditions_same-license">
 🔵 Same License
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 Modifications must be released under the same license when distributing<br />&#160;&#160;&#160;&#160;&#160;
 the licensed material. In some cases a similar or related license may be used.
 
-<h4 id="state-changes">
+<h4 id="conditions_state-changes">
 🔵 State Changes
 </h4>
 &#160;&#160;&#160;&#160;&#160;
@@ -1095,50 +1223,63 @@ DEFINITION -->
 </details>
 
 
-<details>
+<br />
+<details id="license-glossary_limitations" open>
 	<summary>
-		<h3 style="display: inline">
+		<h3 id="limitations_glossary"
+		    style="display: inline">
 		Limitations
 		</h3>
 	</summary>
+	<h4 id="limitations_liability">
+		🔴 Liability
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;&#160;
+		This license includes a limitation of liability.
+	</p>
+<!-- <br /> -->
+	<h4 id="limitations_warranty">
+		🔴 Warranty
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;&#160;
+		This license explicitly states that it does NOT provide any warranty.
+	</p>
+<!-- <br /> -->
+	<h4 id="limitations_trademark-use">
+		🔴 Trademark Use
+	</h4>
+	<p>
+		&#160;&#160;&#160;&#160;&#160;
+		This license explicitly states that it does NOT grant trademark rights,
+		<br />&#160;&#160;&#160;&#160;&#160;
+		even though licenses without such a statement probably do not grant
+		<br />&#160;&#160;&#160;&#160;&#160;
+		any implicit trademark rights.
+	</p>
 
-<h4 id="liability">
-🔴 Liability
+<!-- <h4 id="limitations_term">
+🔴 TERM
 </h4>
-&#160;&#160;&#160;&#160;&#160;
-This license includes a limitation of liability.
+	<p>
+		&#160;&#160;&#160;&#160;&#160;
+		DEFINITION
+	</p>-->
 
-<h4 id="warranty">
-🔴 Warranty
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-This license explicitly states that it does NOT provide any warranty.
-
-<!-- <h4 id="term">
+<!-- <h4 id="limitations_term">
 🔴 TERM
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 DEFINITION -->
 
-<!-- <h4 id="term">
+<!-- <h4 id="limitations_term">
 🔴 TERM
 </h4>
 &#160;&#160;&#160;&#160;&#160;
 DEFINITION -->
 
-<!-- <h4 id="term">
-🔴 TERM
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-DEFINITION -->
-
-<!-- <h4 id="term">
-🔴 TERM
-</h4>
-&#160;&#160;&#160;&#160;&#160;
-DEFINITION -->
-
-<!-- <h4 id="term">
+<!-- <h4 id="limitations_term">
 🔴 TERM
 </h4>
 &#160;&#160;&#160;&#160;&#160;
