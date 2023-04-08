@@ -237,52 +237,28 @@ Once you've settled on a license, feel free to delete the `/.template/licenses` 
 				      title="A copy of the license and copyright notice must be included with the licensed material in source form, but is not required for binaries.">
 					License & Copyright Notice for Source
 				   </a><br />
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔵 <a href="#conditions_"
-				      title="Mouseover">
-					ITEM
+				🔵 <a href="#conditions_state-changes"
+				      title="Changes made to the licensed material must be documented.">
+					State Changes
 				   </a><br />
 			</td>
 			<td>
-				🔴 <a href="#limitations_"
+				🔴 <a href="#limitations_liability"
+				      title="This license includes a limitation of liability.">
+					Liability
+				   </a><br />
+				🔴 <a href="#limitations_trademark-use"
+				      title="This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.">
+					Trademark Use
+				   </a><br />
+				🔴 <a href="#limitations_warranty"
+				      title="This license explicitly states that it does NOT provide any warranty.">
+					Warranty
+				   </a><br />
+				<!-- 🔴 <a href="#limitations_"
 				      title="Mouseover">
 					ITEM
-				   </a><br />
-				🔴 <a href="#limitations_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a href="#limitations_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a href="#limitations_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a href="#limitations_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
-				🔴 <a href="#limitations_"
-				      title="Mouseover">
-					ITEM
-				   </a><br />
+				   </a><br /> -->
 			</td>
 		</tr>
 	</tbody>
@@ -1201,9 +1177,9 @@ DEFINITION -->
 	</h4>
 		<p>
 			&#160;&#160;&#160;&#160;&#160;
-			A copy of the license and copyright notice must be included with
+			A copy of the license and copyright notice must be included with the licensed material
 			<br />&#160;&#160;&#160;&#160;&#160;
-			the licensed material in source form, but is not required for binaries.
+			<b>in <i>source form</i></b>, but is <b>not required for <i>binaries</i></b>.
 		</p>
 <!-- break -->
 	<h4 id="conditions_network-use-is-distribution">
