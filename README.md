@@ -10,7 +10,7 @@ A non-specific, 'bare-bones' Template Repository for __[GitHub](https://github.c
 
 
 
-<br />
+	<br />
 <details open>
 <summary>
 	<h2 id="table-of-contents" style="display: inline">
