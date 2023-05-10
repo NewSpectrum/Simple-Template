@@ -1,6 +1,6 @@
 {
 	"recommendations": [
-//+ Must-Have Extensions
+//+ Must-Have* Extensions
 	//- Markdown Preview Extension Pack (6 extensions)
 		"bierner.github-markdown-preview",
 	//- Customizable Comment Highlighting
@@ -9,6 +9,8 @@
 		"PKief.material-icon-theme",
 	//- Improved icons for Visual Studio Code's built-in commands
 		"PKief.material-product-icons",
+	//- Auto Complete Tag (2 Extensions)
+		"formulahendry.auto-close-tag",
 		
 //+ Remote Development Extensions
 	//- Remote File System for Containers, SFTP (SSH), and WSL
